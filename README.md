@@ -1,1 +1,2 @@
-je repars à 0
+je repars ï¿½ 0
+j ajoute git
