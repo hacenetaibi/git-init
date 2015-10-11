@@ -1,4 +1,4 @@
 titre entee
-je repars � 0
+je pars
 j ajoute git
 j'ajoute
